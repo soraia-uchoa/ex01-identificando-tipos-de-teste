@@ -1,0 +1,8 @@
+01-Testar uma função isolada é qual tipo de teste? 
+- É teste unitário
+
+02-Testar a API junto com o banco é qual tipo?
+-É teste de integração
+
+03-Qual a principal ideia do TDD?
+-TDD significa Test Driven Development, criado por Kent Beck
